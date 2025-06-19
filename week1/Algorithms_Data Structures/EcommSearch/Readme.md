@@ -3,6 +3,7 @@ output:
 
 **Analysis & Conclusion
 Linear Search	O(n)	Slower for large data
+
 Binary Search	O(log n)	Much faster for large sorted data**
 
 Exercise 2: E-commerce Platform Search Function
