@@ -2,13 +2,12 @@ output:
 ![Screenshot 2025-06-19 155003](https://github.com/user-attachments/assets/184c6b3a-9585-49a1-afc3-76dc8e30f393)
 
 formula used:
-V 
-n
-​
- =V 
-n−1
-​
- ×(1+r)
+Vn = Vn-1*(r-1)
+V₀ = initial amount, n = no.of years, r = rate of interest.
+
+Time Complexity: O(n) – One recursive call per year
+
+Space Complexity: O(n) – Due to recursive call stack 
 
 Exercise 7: Financial Forecasting
 Scenario: 
