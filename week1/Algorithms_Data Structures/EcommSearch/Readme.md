@@ -16,3 +16,9 @@ o	Store products in an array for linear search and a sorted array for binary sea
 4.	Analysis:
 o	Compare the time complexity of linear and binary search algorithms.
 o	Discuss which algorithm is more suitable for your platform and why.
+
+
+Analysis & Conclusion
+Linear Search	O(n)	Slower for large data
+Binary Search	O(log n)	Much faster for large sorted data
+
