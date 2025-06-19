@@ -2,8 +2,7 @@ output:
 ![Screenshot 2025-06-19 131723](https://github.com/user-attachments/assets/6d0d7b86-d408-49e9-bcb4-1c9942d6a7b0)
 
 **Analysis & Conclusion
-Linear Search	O(n)	Slower for large data
-
+Linear Search	O(n)	Slower for large data while 
 Binary Search	O(log n)	Much faster for large sorted data**
 
 Exercise 2: E-commerce Platform Search Function
