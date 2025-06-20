@@ -1,0 +1,17 @@
+output
+![Screenshot 2025-06-20 232842](https://github.com/user-attachments/assets/f8770f6a-a602-44b9-89de-129d34d3ea48)
+
+Exercise 6: Library Management System
+Scenario: 
+You are developing a library management system where users can search for books by title or author.
+Steps:
+1.	Understand Search Algorithms:
+o	Explain linear search and binary search algorithms.
+2.	Setup:
+o	Create a class Book with attributes like bookId, title, and author.
+3.	Implementation:
+o	Implement linear search to find books by title.
+o	Implement binary search to find books by title (assuming the list is sorted).
+4.	Analysis:
+o	Compare the time complexity of linear and binary search.
+o	Discuss when to use each algorithm based on the data set size and order.
