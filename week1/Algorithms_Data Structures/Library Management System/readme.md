@@ -1,6 +1,9 @@
 output
 ![Screenshot 2025-06-20 232842](https://github.com/user-attachments/assets/f8770f6a-a602-44b9-89de-129d34d3ea48)
 
+
+Analysis & Conclusion Linear Search O(n) Slower for large data while Binary Search O(log n) Much faster for large sorted data
+
 Exercise 6: Library Management System
 Scenario: 
 You are developing a library management system where users can search for books by title or author.
