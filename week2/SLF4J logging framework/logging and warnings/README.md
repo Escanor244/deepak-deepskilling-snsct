@@ -1,5 +1,8 @@
 # Logging Error Messages and Warning Levels (SLF4J Example)
 
+![image](https://github.com/user-attachments/assets/f7bb0e66-0a12-4a14-ba76-0556a802d723)
+
+
 This project demonstrates how to log error messages and warning levels in a Java application using SLF4J and Logback.
 
 ## Project Structure
